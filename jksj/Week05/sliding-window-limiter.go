@@ -1,4 +1,4 @@
-package Week06
+package Week05
 
 import (
 	"sync"
